@@ -1,0 +1,28 @@
+Top Bar:
+Search is one of the most important functions for any database. We believe that the search function should be available to the user at all times. Hence, we’ve used the CSS property position: fixed to ensure that the search bar is always available on top of the page even when the user scrolls down.
+The top bar of IMDB is very cluttered. Also the search bar is on the left which results in a shift of focus from the search function. We’ve made the search bar bigger and centered it in order to emphasize the search function.
+The advanced search option was available on the side of the page. We believe that the advanced search option should be placed right next to the search bar in order to make these options more accessible to the user.
+The drop-down menus were all cramped on the left side of the page. We’ve spaced out the drop-down menus and created a separate yellow nav-bar right below the search bar for these drop down menus.
+
+Main page:
+The main page of IMDB has way too many words.  The concept for our homepage was to include as little as possible while still capturing the features on the IMDB homepage that we thought people would want.  As such, we did away with many of the homepage features and left people to find them via the new, simple navbar.  We decided to keep the original color scheme, as IMDB is already a big name, and many people already associate that yellow with their logo.  We went for the dark background for a movies theme, and the light in the content to emphasize movies.  We increased the movie thumbnail size slightly to make sure that the movies got emphasis.  Our navbar is as simple as we could make it, so that it was short enough to give it position: fixed.  We added in advanced search options because we thought it would be convenient to have those options right next to the search bar, rather than having to make a search in order to find the advanced search options, which used to be at the bottom of the search results page.  Finally, the background was kept as a solid color to make sure that no attention was brought away from the content of the homepage.
+
+Search Results:
+The search results page was influenced by the iTunes search page. We decided that the simplicity of the iTunes search results layout was something that we could adopt and modify to make it work with IMDB. The positioning of “Search Results for "Star Trek"” would be most impactful on the top against the gray background. We felt that the “Search Results for "Star Trek"” did not need its own box and having it against the gray background would provide sufficient contrast. We stacked vertically and horizontally the boxes to maximize space. We included enough information, but not too much like the current IMDB website.
+
+In theaters:
+First off we felt that it was tough to recognize which page we were on because of the poor positioning of the title (it was positioned towards the left with a lot of clutter around it).  The original page also has two tabs for in theaters and coming soon. It has a small link to the side which says ‘showtimes and tickets’. We decided to combine these three elements into a single white top bar with a large  ‘In theaters’ title occupying the center of the bar. On the sides of the title we’ve included links for ‘coming soon’ and ‘showtimes and tickets’. This effectively reduces the clutter on the top and emphasizes the title. The title also uses a larger font size than the links on the sides for emphasis.
+
+Unlike the original site, we’ve separated the title from the content. We’ve used separate boxes in order to clearly separate different content (in line with the CSS box model). 
+
+Under each movie the original site has a block of text called ‘buzz’ which throws information at the user and makes the page look cramped. We’ve omitted the buzz section completely. 
+
+We’ve also put the score, genre, cast and description on different lines in order to present relevant information in a clear and logical manner.
+
+In terms of typography, the page uses a uniform font size for everything inside the boxes. The title of each box is clearly emphasized with a larger font size and a different color.
+
+
+Latest Stills:
+When people want to see photos, they just want to see photos - that is our thinking. We took out irrelevant information that was on the stills page of the original IMDB website and blew up the images. On the page, there are only images and when moused over, the images expand in 0.2 second. On the original site, the images were stacked tightly and the images were extremely small. The site required the user to click into the photo to get a larger and clearer photo. In our redesign, we made the pictures expand when moused over, so the user would not have to click into every photo to get a satisfactory and quick look at the photos. We also spaced out the images for a more roomy feel.
+
+
